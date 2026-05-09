@@ -80,7 +80,6 @@ const App = () => {
         return;
       }
     }
-
     setStrToDisplay((ps) => ps + value);
   };
 
