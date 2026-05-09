@@ -1,7 +1,13 @@
-:root {
+/* :root {
     --primaryClr: green;
     --secondaryClr: lightGreen;
     --trClr: yellow;
+} */
+
+:root {
+    --primaryClr: rgb(214, 89, 39);
+    --secondaryClr: lightGreen;
+    --trClr: rgb(138, 46, 167);
 }
 
 body {
